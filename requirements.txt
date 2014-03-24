@@ -1,0 +1,4 @@
+socketIO-client
+LabJackPython
+numpy
+matplotlib
